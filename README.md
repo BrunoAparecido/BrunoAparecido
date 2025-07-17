@@ -7,10 +7,10 @@
 ---
 
 ## 🧑‍💻 Sobre mim
-📘 Formado em curso técnico em Desenvolvimento de Sistemas pelo SENAI
-🎓 Em formação na área de Análise e Desenvolvimento de Sistemas na FATEC Taubaté
-🧠 Interesse em desenvolvimento web, APIs e bancos de dados 
-🔍 Buscando oportunidades para aplicar meu conhecimento em ambientes reais 
+📘 Formado em curso técnico em Desenvolvimento de Sistemas pelo SENAI <br>
+🎓 Em formação na área de Análise e Desenvolvimento de Sistemas na FATEC Taubaté <br>
+🧠 Interesse em desenvolvimento web, APIs e bancos de dados <br>
+🔍 Buscando oportunidades para aplicar meu conhecimento em ambientes reais <br>
 
 ---
 
