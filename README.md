@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Bruno Aparecido!</h1>
+<h1 align="center">Olá, eu sou o Bruno Aparecido!</h1>
 
 <p align="center">
   Desenvolvedor Web Full-Stack em formação
